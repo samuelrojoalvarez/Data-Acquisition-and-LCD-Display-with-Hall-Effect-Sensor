@@ -1,4 +1,4 @@
-# IoT Data-Acquisition-and-LCD-Display-with-Hall-Effect-Sensor
+# IoT DAQ and LCD Display with Hall Effect Sensor
 
 
 Firmware Project to manage the funcionality of a LCD Display with a Hall-Effect-Sensor, In this project It will design a circuit that allows the visualization on a LCD screen of the distance a magnet is from a Hall effect Sensor.
