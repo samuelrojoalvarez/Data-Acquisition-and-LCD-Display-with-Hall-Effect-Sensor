@@ -39,7 +39,6 @@ Parameteric register system of the device Master Board inside the presence detec
 _With the following steps regarding to the installation tools and libraries will allow us after the debugging and ejecution the code in a local machine in order to develop and test the source.
 
 
-
 ### 📋 Requirements 
 
 
